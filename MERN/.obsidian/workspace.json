@@ -11,10 +11,14 @@
             "id": "709820bbf9afe5e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "System Design/system_design_plan.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "system_design_plan"
             }
           }
         ]
@@ -177,7 +181,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "0fbe440c33cf0a33",
+  "active": "709820bbf9afe5e7",
   "lastOpenFiles": [
     "System Design/system_design_plan.md",
     "System Design/Untitled.md",
