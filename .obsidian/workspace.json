@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design/Untitled.md",
+                "file": "System Design/system_design_learning_guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of System Design Learning Guide"
             }
           }
         ]
@@ -179,9 +179,8 @@
   },
   "active": "0fbe440c33cf0a33",
   "lastOpenFiles": [
+    "System Design/system_design_learning_guide.md",
     "System Design/system_design_plan.md",
-    "System Design/Untitled.md",
-    "Untitled.md",
     "System Design",
     "Welcome.md"
   ]
